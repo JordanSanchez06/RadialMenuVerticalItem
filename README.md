@@ -1,3 +1,4 @@
+Ignore this fork. Use HalfShiftedItems="True" to achieve this effect.
 RadialMenu
 ===========
 
